@@ -26,6 +26,7 @@ search: true
 
 # Build settings
 markdown: kramdown
+repository: 3dartistmax/Justatest
 remote_theme: mmistakes/minimal-mistakes
 #theme: minimal-mistakes-jekyll
 # Outputting
@@ -114,3 +115,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+<script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
