@@ -7,8 +7,4 @@ tags:
   - Jekyll
   - update
 ---
-Just a random test.
-And so on.
-And so on
-
-And on 
+Whatever 
