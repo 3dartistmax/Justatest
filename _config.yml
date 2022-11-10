@@ -61,7 +61,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Testing Web"
+  name   : "Just Web"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
